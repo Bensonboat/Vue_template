@@ -1,4 +1,4 @@
-# green_house
+# vue template
 
 ## Project setup
 ```
